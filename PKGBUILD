@@ -1,6 +1,6 @@
 # Maintainer: Shi Liang <shilianggoo@gmail.com>
 pkgname=python-caiman-git
-pkgver=r6.3bc6113
+pkgver=r1421.dd9c889
 pkgrel=1
 
 pkgdesc=" A Computational toolbox for large scale Calcium Imaging data Analysis and behavioral analysis. "
