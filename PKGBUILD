@@ -21,6 +21,7 @@ md5sums=('SKIP')
 
 build() {
 	cd "$srcdir/$pkgname-$pkgver"
+	python setup.py build_ext
 	python setup.py build
 }
 
