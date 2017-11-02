@@ -10,7 +10,7 @@ url="https://github.com/simonsfoundation/CaImAn.git"
 license=('GPL')
 groups=()
 depends=('python' 'python-numpy' 'python-scipy' 'python-scikit-image'  'python-scikit-learn'
-	'ipython-ipyparallel' 'opencv' 'python-tifffile')
+	'ipython-ipyparallel' 'opencv' 'python-tifffile' 'python-peakutils')
 makedepends=('git')
 checkdepends=()
 optdepends=('python-cvxpy' 'python-spams-svn')
