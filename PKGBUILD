@@ -11,7 +11,7 @@ license=('GPL')
 groups=()
 depends=('python' 'python-numpy' 'python-scipy' 'python-scikit-image'  'python-scikit-learn'
 	'ipython-ipyparallel' 'opencv' 'python-tifffile' 'python-peakutils')
-makedepends=('git')
+makedepends=('git' 'cython')
 checkdepends=()
 optdepends=('python-cvxpy' 'python-spams-svn')
 options=()
